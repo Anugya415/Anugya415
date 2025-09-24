@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 🎯 I'm a frontend developer who loves crafting beautiful and performant interfaces for both *web* and *mobile* platforms using *React.js* and *React Native*.  
-🔁 I focus on *reusability, **responsive design, and **clean code*.  
+🔁 I focus on *reusability and responsive design
 🎨 I bring UI to life with animations, transitions, and modern UI libraries.
 
 ---
