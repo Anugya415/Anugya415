@@ -12,8 +12,6 @@ I enjoy working on end-to-end development, contributing to both frontend experie
 I continuously improve my skills through hands-on projects, exploring modern technologies, and refining my development practices. I believe consistency and curiosity are key to growing as an engineer.
 </p>
 
-<hr>
-
 <h2>What I Work On</h2>
 <ul>
   <li>Full-stack application development</li>
@@ -22,7 +20,6 @@ I continuously improve my skills through hands-on projects, exploring modern tec
   <li>Building projects that solve real-world problems</li>
 </ul>
 
-<hr>
 <p>
 Explore my projects and work through my portfolio. I’m open to collaborations, tech discussions, and opportunities to build impactful software.
 </p>
@@ -44,7 +41,5 @@ Explore my projects and work through my portfolio. I’m open to collaborations,
     </a>
   </li>
 </ul>
-
-<hr>
 
 <p align="center">✨ Always learning, building, and improving ✨</p>
