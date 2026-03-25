@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Anugya Reddy</h1>
+<h1>Hi, I'm Anugya Reddy</h1>
 
 <p>
 I’m a software developer passionate about creating impactful digital solutions across web, mobile, desktop, and emerging domains like computer vision. I focus on building applications that are not only functional but also thoughtfully designed to deliver smooth and user-friendly experiences.
@@ -14,7 +14,7 @@ I continuously improve my skills through hands-on projects, exploring modern tec
 
 <hr>
 
-<h2>🚀 What I Work On</h2>
+<h2>What I Work On</h2>
 <ul>
   <li>Full-stack application development</li>
   <li>Designing scalable and maintainable systems</li>
@@ -23,24 +23,22 @@ I continuously improve my skills through hands-on projects, exploring modern tec
 </ul>
 
 <hr>
-
-<h2>🌐 Connect With Me</h2>
 <p>
 Explore my projects and work through my portfolio. I’m open to collaborations, tech discussions, and opportunities to build impactful software.
 </p>
 
 <ul>
-  <li>🔗 <strong>LinkedIn:</strong> 
+  <li><strong>LinkedIn:</strong> 
     <a href="https://www.linkedin.com/in/anugya-reddy-172aab281" target="_blank">
       www.linkedin.com/in/anugya-reddy-172aab281
     </a>
   </li>
-  <li>📧 <strong>Email:</strong> 
+  <li><strong>Email:</strong> 
     <a href="mailto:reddyanugya@gmail.com">
       reddyanugya@gmail.com
     </a>
   </li>
-  <li>🌐 <strong>Portfolio:</strong> 
+  <li><strong>Portfolio:</strong> 
     <a href="https://www.anugyareddy.me/" target="_blank">
       www.anugyareddy.me
     </a>
